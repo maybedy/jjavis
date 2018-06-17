@@ -1,0 +1,7 @@
+*/configurations.py
+venv
+venv/*
+.idea
+.idea/*
+__pycache__/*
+__pycache__
